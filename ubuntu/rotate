@@ -30,6 +30,5 @@ for input in "${inputs[@]}"; do
 done
 
 for wacom in "${wacoms[@]}"; do
-  xsetwacom set "$wacom" Rotate $direction[$1]
+  xsetwacom set "$wacom" Rotate ${direction[$1]}
 done
-           

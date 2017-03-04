@@ -1,0 +1,2 @@
+xdotool key Super_L+a
+xdotool mousemove 0 768a

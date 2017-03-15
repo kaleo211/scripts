@@ -1,15 +1,15 @@
 #!/bin/bash
 
-inputs=( 
+inputs=(
   'Virtual core pointer'
   'Virtual core XTEST pointer'
   'TPPS/2 IBM TrackPoint'
-  'SynPS/2 Synaptics TouchPad' 
-  'Wacom ISDv4 E6 Finger touch'
+  'SynPS/2 Synaptics TouchPad'
 )
 
 wacoms=(
-  'Wacom ISDv4 E6 Pen stylus' 
+  'Wacom ISDv4 E6 Finger touch'
+  'Wacom ISDv4 E6 Pen stylus'
   'Wacom ISDv4 E6 Pen eraser'
 )
 
